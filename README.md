@@ -11,18 +11,6 @@
 
 ---
 
-## 🏆 GitHub Stats
-
-[![committers.top badge](https://user-badge.committers.top/bulgaria/arnautdev.svg)](https://user-badge.committers.top/bulgaria/arnautdev)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnautdev&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnautdev&layout=compact&theme=nightowl&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=arnautdev&theme=nightowl&hide_border=true)
-
----
-
 ## 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
